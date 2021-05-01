@@ -1,0 +1,17 @@
+{
+  "name": "01_primeira_imagem",
+  "version": "1.0.0",
+  "description": "just hello world to test docker",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "carloskvasir",
+  "license": "MPL.2-0"
+}
